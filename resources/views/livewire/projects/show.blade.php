@@ -1,5 +1,1 @@
-<div>
-    <h1>Show</h1>
-
-    @dump($project)
-</div>
+<x-projects.card :$project />
